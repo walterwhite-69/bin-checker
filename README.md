@@ -15,8 +15,8 @@ Since this tool is already compiled as an executable (`.exe`), there is no need 
 
 ### Download the Executable
 
-1. Go to the [Releases](https://github.com/yourusername/bin-checker/releases) section of this repository.
-2. Download the latest `bin_checker.exe` for your platform.
+1. Go To this url : https://github.com/walterwhite-69/bin-checker
+2. Downloaf Bin Checker(Beta).exe
 
 ## Usage
 
