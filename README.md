@@ -16,7 +16,7 @@ Since this tool is already compiled as an executable (`.exe`), there is no need 
 ### Download the Executable
 
 1. Go To this url : https://github.com/walterwhite-69/bin-checker
-2. Downloaf Bin Checker(Beta).exe
+2. Download Bin Checker(Beta).exe
 
 ## Usage
 
