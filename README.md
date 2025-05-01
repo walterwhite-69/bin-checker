@@ -2,6 +2,10 @@
 
 Welcome to the **Bin Checker** project! This is a high-speed tool designed to check thousands of Bank Identification Numbers (BINs) in seconds. It can quickly process BINs from a `.txt` file or manually, providing only valid outputs with detailed information.
 
+## Screenshot
+![Main Screen](ss1.png)
+
+
 ## Features
 
 - **Load Bins from a Text File**: Provide the location of a `.txt` file containing a list of BINs, and the tool will process them.
