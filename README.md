@@ -1,3 +1,5 @@
+![Animated SVG](https://2a5388dd-b792-433d-87aa-d6e01014b1b1-00-39tet4fdi3t4g.sisko.replit.dev/generate?lines=Hello%2C+World%21&animation=typing&font=Fira+Code&color=409EFF&bg_color=transparent&size=24&width=600&height=100&duration=3000&center=true&repeat=true&letter_spacing=0&glitch_intensity=5&stagger_delay=50&typing_mode=sequential&terminal_color_mode=rainbow&terminal_colors=FF0080%2CFF8000%2CFFFF00%2C00FF00%2C00FFFF%2C0080FF%2C8000FF&border_width=0&border_color=000000&border_radius=0&padding=0)
+
 # Bin Checker
 
 Welcome to the **Bin Checker** project! This is a high-speed tool designed to check thousands of Bank Identification Numbers (BINs) in seconds. It can quickly process BINs from a `.txt` file or manually, providing only valid outputs with detailed information.
